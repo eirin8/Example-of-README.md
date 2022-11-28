@@ -1,1 +1,1 @@
-# Exercise
+# Example of README.md
